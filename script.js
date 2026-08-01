@@ -180,7 +180,7 @@ function saveData(){
 
         ctx.fillStyle = "#ff0000";
 
-        ctx.font = "bold 26px Arial";
+        ctx.font = "bold 20px Arial";
 
 
 
