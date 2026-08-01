@@ -253,7 +253,7 @@ function saveData(){
         link
         ?
         `<a href="${link}" target="_blank">
-        ${name}
+        ${link}
         </a>`
         :
         "กรุณาเลือกทางเข้าเล่น"
@@ -271,10 +271,14 @@ function saveData(){
 
     Google Chrome หรือ Safari
 
-
+<br>
     <br>
 
-    เพื่อความรวดเร็ว เสถียร และภาพที่คมชัดขณะเข้าเล่น
+    เพื่อความรวดเร็ว เสถียร 
+    
+    <br>
+    
+    และภาพที่คมชัดขณะเข้าเล่น
 
     `;
 
